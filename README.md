@@ -1,4 +1,4 @@
-Home Page Previe
+Home Page Preview
 
 
 ![kurd-trainer netlify app_](https://github.com/devarDilshad/kurd-trainer/assets/102621402/b9008392-c438-4411-87c7-aa9f5c79055f)
